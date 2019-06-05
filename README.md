@@ -1,6 +1,6 @@
 # Evaluation of Scientific Elements for Text Similarity in Biomedical Publications
 
-Data for the publication "Evaluation of Scientific Elements for Text Similarity in Biomedical Publications"
+Data for the publication "Evaluation of Scientific Elements for Text Similarity in Biomedical Publications" published in the [6th Workshop on Argument Mining](https://argmining19.webis.de/) at [ACL 2019](http://www.acl2019.org/EN/index.xhtml).
 
 The datasets that we annotated using three degrees of similarity are the .tsv files. 
 **Currently, only four of the datasets are available, the remaining three will be released shortly.**
